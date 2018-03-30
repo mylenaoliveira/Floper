@@ -230,7 +230,7 @@ ul, ol {
 }
 
 .slider__item_1{
-	background-image: url(../images/photos/first_screen.jpg);
+	background-image: url(../images/photos/thomas-william-250918-unsplash.jpg);
 }
 
 .slider__item_2{
@@ -357,7 +357,7 @@ ul, ol {
 .about{
 	width: 100%;
 	font-size: 16px;
-	background-image: url(../images/photos/about_background.jpg);
+	background-image: url(../images/photos/acb-ms-sobre.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	-webkit-background-size: cover;
@@ -993,6 +993,8 @@ ul, ol {
 	        transform: rotate(-45deg);
 	margin-top: -1px;
 }
+
+/*clipping ******************************/
 
 /*clients *******************************/
 
